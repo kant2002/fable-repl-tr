@@ -1,7 +1,7 @@
 [
     {
         "type": "category",
-        "label": "Samples",
+        "label": "Örnekler",
         "children": [
             {
                 "type": "sub-category",
@@ -9,13 +9,13 @@
                 "children": [
                     {
                         "type": "menu-item",
-                        "label": "Spreadsheet",
+                        "label": "E-tablo",
                         "fsharpCode": "ui/spreadsheet.fs",
                         "htmlCode": "ui/spreadsheet.html"
                     },
                     {
                         "type": "menu-item",
-                        "label": "Web Component",
+                        "label": "Web Bileşeni",
                         "fsharpCode": "ui/webcomponent.fs",
                         "htmlCode": "ui/webcomponent.html"
                     }
@@ -23,35 +23,35 @@
             },
             {
                 "type": "sub-category",
-                "label": "Fun and Games",
+                "label": "Eğlence ve oyunlar",
                 "children": [
                     {
                         "type": "menu-item",
-                        "label": "Undertone - Programmable music",
+                        "label": "Alt ton - Programlanabilir müzik",
                         "fsharpCode": "games/undertone.fs",
                         "htmlCode": "games/undertone.html"
                     },
                     {
                         "type": "menu-item",
-                        "label": "F# Ant Colony Fable Edition",
+                        "label": "F# Karınca Kolonisi Fable Sürümü",
                         "fsharpCode": "games/ants.fs",
                         "htmlCode": "games/ants.html"
                     },
                     {
                         "type": "menu-item",
-                        "label": "Super Fable Mario",
+                        "label": "Süper Fable Mario",
                         "fsharpCode": "games/mario.fs",
                         "htmlCode": "games/mario.html"
                     },
                     {
                         "type": "menu-item",
-                        "label": "Ozmo Game",
+                        "label": "Ozmo Oyunu",
                         "fsharpCode": "games/ozmo.fs",
                         "htmlCode": "games/ozmo.html"
                     },
                     {
                         "type": "menu-item",
-                        "label": "Pacman",
+                        "label": "Pacman'i",
                         "fsharpCode": "games/pacman.fs",
                         "htmlCode": "games/pacman.html"
                     }
@@ -59,11 +59,11 @@
             },
             {
                 "type": "sub-category",
-                "label": "Visualizations",
+                "label": "Görselleştirmeler",
                 "children": [
                     {
                         "type": "menu-item",
-                        "label": "Basic canvas",
+                        "label": "Temel tuval",
                         "fsharpCode": "visual/basic-canvas.fs",
                         "htmlCode": "visual/basic-canvas.html"
                     },
@@ -75,7 +75,7 @@
                     },
                     {
                         "type": "menu-item",
-                        "label": "Ray Tracer",
+                        "label": "Işın İzleyici",
                         "fsharpCode": "visual/raytracer.fs",
                         "htmlCode": "visual/raytracer.html"
                     },
@@ -87,13 +87,13 @@
                     },
                     {
                         "type": "menu-item",
-                        "label": "Color Fountain",
+                        "label": "Renk Çeşmesi",
                         "fsharpCode": "visual/color-fountain.fs",
                         "htmlCode": "visual/color-fountain.html"
                     },
                     {
                         "type": "menu-item",
-                        "label": "Fractal",
+                        "label": "Fraktal",
                         "fsharpCode": "visual/fractal.fs",
                         "htmlCode": "visual/fractal.html"
                     }
@@ -103,45 +103,45 @@
     },
     {
         "type": "category",
-        "label": "Learn",
+        "label": "Öğrenmek",
         "children": [
             {
                 "type": "sub-category",
-                "label": "Tour of F#",
+                "label": "F# Turu",
                 "children": [
                     {
                         "type": "menu-item",
-                        "label": "Functions",
+                        "label": "Fonksiyonlar",
                         "fsharpCode": "tour/functions.fs"
                     },
                     {
                         "type": "menu-item",
-                        "label": "Primitive Types",
+                        "label": "İlkel Türler",
                         "fsharpCode": "tour/primitives.fs"
                     },
                     {
                         "type": "menu-item",
-                        "label": "Collections",
+                        "label": "Koleksiyonlar",
                         "fsharpCode": "tour/collections.fs"
                     },
                     {
                         "type": "menu-item",
-                        "label": "Tuples and Records",
+                        "label": "Tuple'lar ve Kayıtlar",
                         "fsharpCode": "tour/records.fs"
                     },
                     {
                         "type": "menu-item",
-                        "label": "Union Types",
+                        "label": "Rakor Çeşitleri",
                         "fsharpCode": "tour/unions.fs"
                     },
                     {
                         "type": "menu-item",
-                        "label": "Units of Measure",
+                        "label": "Ölçü birimleri",
                         "fsharpCode": "tour/units.fs"
                     },
                     {
                         "type": "menu-item",
-                        "label": "Defining Classes",
+                        "label": "Sınıfları Tanımlama",
                         "fsharpCode": "tour/classes.fs"
                     }
                 ]
